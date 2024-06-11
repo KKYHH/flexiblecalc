@@ -19,3 +19,5 @@ calculate.addEventListener('click', () => {
 
   result.textContent = `${lengthInCm}cm 입니다. ${totalSteps}칸을 가야 합니다.`;
 });
+
+console.log(input);
